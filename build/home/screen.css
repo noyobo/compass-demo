@@ -1,0 +1,69 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+.i-sprite, .i-dot, .i-fav, .i-faved, .i-mode-hq-on, .i-mode-one, .i-mode-order, .i-mode-random, .i-more, .i-mute, .i-next, .i-play, .i-prev, .i-share, .i-vol {
+  background-image: url('../home/images/i-s1f9eca2bd9.png');
+  background-repeat: no-repeat;
+}
+
+.i-dot {
+  background-position: 0 0;
+}
+
+.i-fav {
+  background-position: 0 -8px;
+}
+
+.i-faved {
+  background-position: 0 -26px;
+}
+
+.i-mode-hq-on {
+  background-position: 0 -44px;
+}
+
+.i-mode-one {
+  background-position: 0 -64px;
+}
+
+.i-mode-order {
+  background-position: 0 -84px;
+}
+
+.i-mode-random {
+  background-position: 0 -104px;
+}
+
+.i-more {
+  background-position: 0 -124px;
+}
+
+.i-mute {
+  background-position: 0 -142px;
+}
+
+.i-next {
+  background-position: 0 -160px;
+}
+
+.i-play {
+  background-position: 0 -190px;
+}
+
+.i-prev {
+  background-position: 0 -220px;
+}
+
+.i-share {
+  background-position: 0 -250px;
+}
+
+.i-vol {
+  background-position: 0 -268px;
+}
+
+.a {
+  color: red;
+  background: url('../../sass/home/images/faved.png?1413880046') no-repeat 0 0;
+}

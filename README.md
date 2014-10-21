@@ -4,6 +4,11 @@
 compass compile C:/E/github/compass-demo C:/E/github/compass-demo/sass/screen.scss --relative-assets --time --output-style nested --css-dir ./css --sass-dir sass -I ./
 ```
 
+```
+compass compile C:/E/github/compass-demo --images-dir sass --force --generated-images-path build --css-dir build -
+-boring --relative-assets
+```
+
 ## Compass compile command
 ```base
 Usage: compass compile [path/to/project] [path/to/project/src/file.sass ...] [op
