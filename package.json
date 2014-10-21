@@ -1,0 +1,11 @@
+{
+  "name": "compass-demo",
+  "version": "1.0.0",
+  "description": "```\r compass compile C:/E/github/compass-demo C:/E/github/compass-demo/sass/screen.scss --relative-assets --time --output-style nested --css-dir ./css --sass-dir sass -I ./\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
