@@ -1,7 +1,7 @@
 ## Compass
 
 ```
-compass compile C:/E/github/compass-demo C:/E/github/compass-demo/sass/screen.scss --relative-assets --time --output-style nested --css-dir ./css --sass-dir sass -I ./
+compass compile C:/E/github/compass-demo C:/E/github/compass-demo/sass/screen.scss --relative-assets --time --output-style nested --time --boring --css-dir ./css --sass-dir sass -I ./ --force
 ```
 
 ## Compass compile command
