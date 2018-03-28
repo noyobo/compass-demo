@@ -1,5 +1,7 @@
 ## Compass
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/noyobo/compass-demo.svg)](https://greenkeeper.io/)
+
 ```
 compass compile C:/E/github/compass-demo C:/E/github/compass-demo/sass/screen.scss --relative-assets --time --output-style nested --css-dir ./css --sass-dir sass -I ./
 ```
